@@ -3,4 +3,4 @@ A JavaFx program I am writing from scratch and all assets were created by me. Th
 
 The piece of gear is determined by a set amount of parts to make it
   Ex. Swords having 5 parts: Pommel, Handle, Guard, Blade Body, and Blade Tip
-Each part has a material attached to it, which will determine its base stats, and modifiers to those base stats. Some of the stats being durability, weight, length, and attack damage. More are planed as more gear types are added, but for right now those are the ones in place.
+Each part has a material attached to it, which will determine its base stats, and modifiers to those base stats. Some of the stats being durability, weight, length, and attack damage. More are planned as more gear types are added, but for right now those are the ones in place.
